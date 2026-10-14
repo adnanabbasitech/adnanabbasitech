@@ -1,5 +1,5 @@
  # 💫 Hi 👋, I'm Adnan Abbasi
-**A Frontend Web Developer || Software Engineer**
+**A Web Developer || Software Engineer**
 -🔭 Working on: Full Stack MERN web applications
 🌱 Learning: Advanced React, Backend optimization
 👯 Open to: Collaboration on web & startup projects
