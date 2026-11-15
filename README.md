@@ -1,7 +1,5 @@
  # 💫 Hi 👋, I'm Adnan Abbasi
-**A Web Developer || Software Engineer**
--🔭 Working on: Full Stack MERN web applications
-🌱 Learning: Advanced React, Backend optimization
+**Helping Businesses Build Modern Websites & Desktop Applications**
 👯 Open to: Collaboration on web & startup projects
 Email Me 👉 ✉️ **adnanabbasi.tech@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 # 💻 Tech Stack:
